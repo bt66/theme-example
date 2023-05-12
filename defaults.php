@@ -25,7 +25,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getBaseUrl() {
-		return 'https://owncloud.org';
+		return 'https://simpanan.carakan.id';
 	}
 
 	/**
@@ -33,7 +33,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getSyncClientUrl() {
-		return 'https://owncloud.org/install';
+		return 'https://simpanan.carakan.id/install';
 	}
 
 	/**
@@ -65,7 +65,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getDocBaseUrl() {
-		return 'https://doc.owncloud.org';
+		return 'https://doc.simpanan.carakan.id';
 	}
 
 	/**
@@ -73,7 +73,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getTitle() {
-		return 'Custom Cloud - Custom Claim';
+		return 'Simpanan - Access your file anywhere';
 	}
 
 	/**
@@ -81,7 +81,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getName() {
-		return 'Custom Cloud';
+		return 'Simpanan';
 	}
 
 	/**
@@ -89,7 +89,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getHTMLName() {
-		return '<b>Custom</b> Cloud';
+		return '<b>Simpanan</b>';
 	}
 
 	/**
@@ -97,7 +97,7 @@ class OC_Theme {
 	 * @return string entity name
 	 */
 	public function getEntity() {
-		return 'Custom Cloud Co.';
+		return 'carakan.id';
 	}
 
 	/**
@@ -105,7 +105,7 @@ class OC_Theme {
 	 * @return string slogan
 	 */
 	public function getSlogan() {
-		return 'Your custom cloud, personalized for you!';
+		return 'Simpanan, Access your data anywhere!';
 	}
 
 	/**
@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '<a href="https://example.com">Custom Claim</a>';
+		return '<a href="https://simpanan.carakan.id">Simpanan Claim</a>';
 	}
 
 	public function getPrivacyPolicyUrl() {
